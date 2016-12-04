@@ -1,5 +1,7 @@
 #include "project3.h"
 
+//Testing
+
 Manager::Manager(ifstream& inFile) {
 	//creates a manager using the inFile, reading in the number of routers,
 	//the routing table, and the commands to run
